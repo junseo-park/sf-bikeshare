@@ -8,8 +8,10 @@ This project aims to explore bikeshare data from the Ford GoBike program across 
 ## Data
 Data were collected from [Kaggle](https://www.kaggle.com/benhamner/sf-bay-area-bike-share); some data files (i.e. `database.sqlite`, `status.csv`) have been omitted from this repository because they were not used in the analysis, and they are too large to upload to GitHub.
 
+Current data on the Ford GoBike program can be found [here](https://www.fordgobike.com/system-data); this was not incorporated into this project.
+
 ## Analysis
-Notebooks containing analysis can be found in [notebooks](./notebooks), and data (raw and cleaned) can be found in [data](./data)
+Notebooks containing analysis can be found in [notebooks](./notebooks), and data (raw and cleaned) can be found in [data](./data).
 
 ## Reproduction
 This project can be reproduced by creating a Python3 virtualenv with the dependencies listed in [`requirements.txt`](./requirements.txt)
